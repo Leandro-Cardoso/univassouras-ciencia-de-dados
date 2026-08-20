@@ -32,4 +32,4 @@ Dataset CSV com 1.000 transações. Use Python + Pandas + Matplotlib para explor
 
 6. [Plote a distribuição da avaliação (Rating) com histograma + KDE.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_06.py)
 
-7. Bônus: correlacione Total e Rating com scatter plot.
+7. [Bônus: correlacione Total e Rating com scatter plot.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_07.py)
