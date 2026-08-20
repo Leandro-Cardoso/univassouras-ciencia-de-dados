@@ -26,7 +26,7 @@ Dataset CSV com 1.000 transações. Use Python + Pandas + Matplotlib para explor
 
 3. [Calcule o total de vendas por filial (Branch) usando groupby.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_03.py)
 
-4. Identifique a linha de produto com maior ticket médio.
+4. [Identifique a linha de produto com maior ticket médio.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_04.py)
 
 5. Crie um gráfico de barras comparando o faturamento por filial.
 
