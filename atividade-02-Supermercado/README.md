@@ -30,6 +30,12 @@ Dataset CSV com 1.000 transações. Use Python + Pandas + Matplotlib para explor
 
 5. [Crie um gráfico de barras comparando o faturamento por filial.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_05.py)
 
+![Atividade 5](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/img/atividade_05.png)
+
 6. [Plote a distribuição da avaliação (Rating) com histograma + KDE.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_06.py)
 
+![Atividade 6](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/img/atividade_06.png)
+
 7. [Bônus: correlacione Total e Rating com scatter plot.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_07.py)
+
+![Atividade 7](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/img/atividade_07.png)
