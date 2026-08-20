@@ -20,7 +20,7 @@ Dataset CSV com 1.000 transações. Use Python + Pandas + Matplotlib para explor
 
 ## Atividades
 
-1. Carregue o arquivo supermarket_sales.csv com Pandas e exiba as 5 primeiras linhas.
+1. [Carregue o arquivo supermarket_sales.csv com Pandas e exiba as 5 primeiras linhas.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_01.py)
 
 2. Inspecione tipos de dados, dimensões e valores nulos.
 
