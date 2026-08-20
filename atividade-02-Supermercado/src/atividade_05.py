@@ -8,6 +8,7 @@ print(title)
 df = pd.read_csv("../data/raw/vendas_1000_registros.csv")
 
 fig, ax = plt.subplots(figsize=(8, 4))
+
 ax.bar(
     df["Branch"],
     df["Total"],
