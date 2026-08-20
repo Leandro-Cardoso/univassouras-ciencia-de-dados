@@ -28,7 +28,7 @@ Dataset CSV com 1.000 transações. Use Python + Pandas + Matplotlib para explor
 
 4. [Identifique a linha de produto com maior ticket médio.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_04.py)
 
-5. Crie um gráfico de barras comparando o faturamento por filial.
+5. [Crie um gráfico de barras comparando o faturamento por filial.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-02-Supermercado/src/atividade_05.py)
 
 6. Plote a distribuição da avaliação (Rating) com histograma + KDE.
 
