@@ -32,6 +32,8 @@ Dataset com 303 pacientes e 14 variáveis clínicas. Use Python + Pandas + Scipy
 
 6. [Calcule a correlação de Pearson entre todas as variáveis numéricas e visualize com heatmap.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_06.py)
 
+![Atividade 6](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/img/atividade_06.png)
+
 7. [Teste com qui-quadrado se sex está associado a target.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_07.py)
 
 8. [Bônus: gere um pairplot e identifique o par com maior correlação.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_08.py)

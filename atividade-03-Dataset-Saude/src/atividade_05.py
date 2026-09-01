@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-print('\n4. Faça um boxplot de thalach (frequência cardíaca máxima) por target (doença cardíaca).\n')
+print('\n5. Faça um boxplot de thalach (frequência cardíaca máxima) por target (doença cardíaca).\n')
 
 df = pd.read_csv("../data/raw/heart_disease_uci.csv")
 
