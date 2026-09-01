@@ -6,7 +6,7 @@ print(title)
 
 df = pd.read_csv("../data/raw/heart_disease_uci.csv")
 
-print(df.describe(include="all"))
+print(df.describe(include="all").round(2))
 
 print()
 
