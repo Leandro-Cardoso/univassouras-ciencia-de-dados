@@ -28,6 +28,8 @@ Dataset com 303 pacientes e 14 variáveis clínicas. Use Python + Pandas + Scipy
 
 5. [Faça um boxplot de thalach (frequência cardíaca máxima) por target (doença cardíaca).](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_05.py)
 
+![Atividade 5](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/img/atividade_05.png)
+
 6. [Calcule a correlação de Pearson entre todas as variáveis numéricas e visualize com heatmap.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_06.py)
 
 7. [Teste com qui-quadrado se sex está associado a target.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_07.py)
