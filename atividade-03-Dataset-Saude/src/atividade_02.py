@@ -1,8 +1,6 @@
 import pandas as pd
 
-title = '\n2. Calcule média, mediana, desvio padrão e CV para age, trestbps e chol.\n'
-
-print(title)
+print('\n2. Calcule média, mediana, desvio padrão e CV para age, trestbps e chol.\n')
 
 df = pd.read_csv("../data/raw/heart_disease_uci.csv")
 

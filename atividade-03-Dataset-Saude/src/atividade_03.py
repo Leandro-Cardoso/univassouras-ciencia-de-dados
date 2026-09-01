@@ -1,8 +1,6 @@
 import pandas as pd
 
-title = '\n3. Compare média vs. mediana de chol, a distribuição é simétrica?\n'
-
-print(title)
+print('\n3. Compare média vs. mediana de chol, a distribuição é simétrica?\n')
 
 df = pd.read_csv("../data/raw/heart_disease_uci.csv")
 

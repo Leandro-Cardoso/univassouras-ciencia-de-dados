@@ -1,8 +1,6 @@
 import pandas as pd
 
-title = '\n1. Carregue o dataset e chame describe(include="all"), identifique tipos e nulos.\n'
-
-print(title)
+print('\n1. Carregue o dataset e chame describe(include="all"), identifique tipos e nulos.\n')
 
 df = pd.read_csv("../data/raw/heart_disease_uci.csv")
 
