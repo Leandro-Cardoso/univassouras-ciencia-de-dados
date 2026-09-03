@@ -39,3 +39,5 @@ Dataset com 303 pacientes e 14 variáveis clínicas. Use Python + Pandas + Scipy
 8. [Bônus: gere um pairplot e identifique o par com maior correlação.](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_08.py)
 
 ![Atividade 8](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/img/atividade_08.png)
+
+* [**Atividades complementares**](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-03-Dataset-Saude/src/atividade_complementar.ipynb)
