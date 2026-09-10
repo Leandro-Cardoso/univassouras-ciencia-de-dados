@@ -19,4 +19,4 @@ Um banco tem 500 clientes com empréstimos ativos. Use Python + SciPy para anali
 
 ## Atividades
 
-* [**Atividades Banco**](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-04-Banco/src/atividade-banco.ipynb)
+* [**Atividades Banco**](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-04-Banco/src/atividades-banco.ipynb)
