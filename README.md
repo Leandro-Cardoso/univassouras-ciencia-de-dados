@@ -11,3 +11,7 @@
 ## Revisão
 
 * [Revisão da P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/revisao-p1)
+
+## Prova
+
+* [P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/p1/p1.ipynb)
