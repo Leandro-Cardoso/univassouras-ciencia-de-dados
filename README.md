@@ -8,6 +8,8 @@
 
 4. [Banco](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/atividade-04-Banco)
 
+5. [Revisar P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/atividade-05-Revisar-P1/p1.ipynb)
+
 ## Revisão
 
 * [Revisão da P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/revisao-p1)
