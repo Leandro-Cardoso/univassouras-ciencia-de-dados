@@ -10,6 +10,8 @@
 
 5. [Revisar P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-05-Revisar-P1/src/p1.ipynb)
 
+6. [Inferência Estatística](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-06-Inferencia-Estatistica/Aula_05_Inferencia_Estatistica.ipynb)
+
 ## Revisão
 
 * [Revisão da P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/revisao-p1)
