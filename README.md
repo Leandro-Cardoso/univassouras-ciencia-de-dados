@@ -12,7 +12,7 @@
 
 6. [Inferência Estatística](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-06-Inferencia-Estatistica/Aula_05_Inferencia_Estatistica.ipynb)
 
-7. [Visualização de Dados, Storytelling e NoSQL](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-06-visualizacao-nosql/Exercicio_Aula_06_Visualizacao_NoSQL.ipynb)
+7. [Mineracão de Dados](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-07/Exercicio_Aula_07_Mineracao_Dados.ipynb)
 
 ## Revisão
 
