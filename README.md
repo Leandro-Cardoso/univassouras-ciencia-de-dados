@@ -14,6 +14,8 @@
 
 7. [Mineracão de Dados](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-07/Exercicio_Aula_07_Mineracao_Dados.ipynb)
 
+8. [Ética, Governança e Qualidade de Dados](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-08/Aula_08_Etica_Qualidade_Dados.ipynb)
+
 ## Revisão
 
 * [Revisão da P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/revisao-p1)
