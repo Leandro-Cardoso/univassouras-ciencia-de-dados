@@ -18,6 +18,8 @@
 
 9. [Resolvendo0 um Problema Real](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-09-resolvendo-um-problema-real/atividade.ipynb)
 
+10. [Tecnicas Estatísticas de Predicão](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/blob/main/atividade-10-tecnicas-estatisticas-de-predicao/atividade.ipynb)
+
 ## Revisão
 
 * [Revisão da P1](https://github.com/Leandro-Cardoso/univassouras-ciencia-de-dados/tree/main/revisao-p1)
